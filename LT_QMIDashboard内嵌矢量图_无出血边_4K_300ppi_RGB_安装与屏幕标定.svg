@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 2160">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        fill: #ff0;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-size: 75px;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: 'HarmonyOS_Sans_Thin_Italic', 'HarmonyOS Sans';
+      }
+
+      .cls-5 {
+        stroke-width: 4.3px;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke: #fff;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-7, .cls-15, .cls-16, .cls-3, .cls-17, .cls-9, .cls-18, .cls-19, .cls-11, .cls-20 {
+        fill: #fff;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6, .cls-8 {
+        stroke-width: 2.34px;
+      }
+
+      .cls-6, .cls-10, .cls-13 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke-width: 4.2px;
+      }
+
+      .cls-15 {
+        font-family: 'HarmonyOS_Sans_SC_Medium', 'HarmonyOS Sans SC';
+        font-size: 35px;
+      }
+
+      .cls-8, .cls-22 {
+        fill: #6cf;
+      }
+
+      .cls-3 {
+        font-family: 'HarmonyOS_Sans_Light_Italic', 'HarmonyOS Sans';
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-17 {
+        font-family: Doto-Black, Doto;
+        font-size: 18px;
+        font-weight: 800;
+        letter-spacing: .18em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        stroke-width: 4.18px;
+      }
+
+      .cls-27 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-18 {
+        font-family: 'HarmonyOS_Sans_SC', 'HarmonyOS Sans SC';
+        font-size: 55px;
+      }
+
+      .cls-28 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        stroke-width: 3.51px;
+      }
+
+      .cls-19 {
+        font-family: 'HarmonyOS_Sans_Italic', 'HarmonyOS Sans';
+        font-size: 46.83px;
+      }
+
+      .cls-11 {
+        stroke-width: 4.35px;
+      }
+
+      .cls-30 {
+        fill: #999;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        stroke: #94c96b;
+      }
+
+      .cls-12, .cls-32 {
+        fill: #94c96b;
+      }
+
+      .cls-12, .cls-14 {
+        stroke-width: 10px;
+      }
+
+      .cls-33 {
+        letter-spacing: .02em;
+      }
+
+      .cls-20 {
+        font-family: 'HarmonyOS_Sans_Medium', 'HarmonyOS Sans';
+        font-size: 187.32px;
+      }
+
+      .cls-13 {
+        stroke: #ff0;
+        stroke-width: 5px;
+      }
+
+      .cls-14 {
+        stroke: #e71f19;
+      }
+
+      .cls-14, .cls-34 {
+        fill: #e71f19;
+      }
+
+      .cls-35 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-40 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Background">
+    <rect x="0" width="3840" height="2160"/>
+  </g>
+  <g id="X_Line">
+    <polyline class="cls-13" points="0 0 960 540 2880 1620 3840 2160"/>
+    <polyline class="cls-13" points="0 2160 960 1620 2880 540 3840 0"/>
+    <text class="cls-2" transform="translate(1999.11 1696.5)"><tspan class="cls-29" x="0" y="0">C</tspan><tspan x="46.35" y="0">alib</tspan><tspan class="cls-39" x="165.6" y="0">r</tspan><tspan x="188.4" y="0">ation-line</tspan></text>
+  </g>
+  <g id="Calibration_Point">
+    <circle class="cls-22" cx="2880" cy="540" r="25"/>
+    <text class="cls-3" transform="translate(2563.02 603.75)"><tspan class="cls-23" x="0" y="0">C</tspan><tspan x="46.8" y="0">alib</tspan><tspan class="cls-35" x="168.3" y="0">r</tspan><tspan x="192.6" y="0">ation_</tspan><tspan class="cls-39" x="393.45" y="0">P</tspan><tspan x="433.95" y="0">oin</tspan><tspan class="cls-33" x="535.5" y="0">t</tspan><tspan x="562.49" y="0">_4</tspan></text>
+    <circle class="cls-22" cx="2880" cy="1620" r="25"/>
+    <text class="cls-3" transform="translate(643.02 1683.75)"><tspan class="cls-23" x="0" y="0">C</tspan><tspan x="46.8" y="0">alib</tspan><tspan class="cls-35" x="168.3" y="0">r</tspan><tspan x="192.6" y="0">ation_</tspan><tspan class="cls-39" x="393.45" y="0">P</tspan><tspan x="433.95" y="0">oin</tspan><tspan class="cls-33" x="535.5" y="0">t</tspan><tspan x="562.49" y="0">_3</tspan></text>
+    <circle class="cls-22" cx="960" cy="1620" r="25"/>
+    <text class="cls-3" transform="translate(2563.02 1683.75)"><tspan class="cls-23" x="0" y="0">C</tspan><tspan x="46.8" y="0">alib</tspan><tspan class="cls-35" x="168.3" y="0">r</tspan><tspan x="192.6" y="0">ation_</tspan><tspan class="cls-39" x="393.45" y="0">P</tspan><tspan x="433.95" y="0">oin</tspan><tspan class="cls-33" x="535.5" y="0">t</tspan><tspan x="562.49" y="0">_2</tspan></text>
+    <circle class="cls-22" cx="960" cy="540" r="25"/>
+    <text class="cls-3" transform="translate(643.02 603.75)"><tspan class="cls-23" x="0" y="0">C</tspan><tspan x="46.8" y="0">alib</tspan><tspan class="cls-35" x="168.3" y="0">r</tspan><tspan x="192.6" y="0">ation_</tspan><tspan class="cls-39" x="393.45" y="0">P</tspan><tspan x="433.95" y="0">oin</tspan><tspan class="cls-33" x="535.5" y="0">t</tspan><tspan x="562.49" y="0">_1</tspan></text>
+    <text class="cls-18" transform="translate(2567.52 1818.94)"><tspan x="0" y="0">提示：请先校准IMU，</tspan><tspan x="0" y="66" xml:space="preserve">           并尽量保持IMU</tspan><tspan x="0" y="132" xml:space="preserve">           垂直于待校准平</tspan><tspan x="0" y="198" xml:space="preserve">           面，采集期间尽</tspan><tspan x="0" y="264" xml:space="preserve">           量不要晃动。</tspan><tspan x="0" y="330" xml:space="preserve">           </tspan></text>
+  </g>
+  <g id="CS_Line">
+    <line class="cls-14" x1="3765" y1="1080" x2="75" y2="1080"/>
+    <polyline class="cls-12" points="1920 75 1920 2085 1920 2095.83"/>
+    <text class="cls-4" transform="translate(1999.11 1945.22)"><tspan class="cls-34"><tspan x="0" y="0">D</tspan><tspan class="cls-38" x="51.52" y="0">-X</tspan><tspan class="cls-37" x="123.52" y="0">-axis</tspan></tspan><tspan class="cls-30"><tspan x="0" y="90">S</tspan><tspan class="cls-27" x="39.22" y="90">-X</tspan><tspan x="111.22" y="90">-axis</tspan></tspan></text>
+    <text class="cls-4" transform="translate(1995.89 1773.6)"><tspan class="cls-32"><tspan x="0" y="0">D</tspan><tspan class="cls-24" x="51.52" y="0">-Y</tspan><tspan x="122.02" y="0">-axis</tspan></tspan><tspan class="cls-34"><tspan x="0" y="90">S</tspan><tspan class="cls-25" x="39.22" y="90">-Y</tspan><tspan x="109.72" y="90">-axis</tspan></tspan></text>
+  </g>
+  <g id="Guide">
+    <text class="cls-18" transform="translate(2734.05 1209.1)"><tspan x="0" y="0">请按照手册安装协议核心，</tspan><tspan x="0" y="66">并确认协议核心射频组件可</tspan><tspan x="0" y="132">以完全展开、无遮挡，视觉</tspan><tspan x="0" y="198">感知组件和散热口无遮挡。</tspan></text>
+  </g>
+  <g id="Logo_Square">
+    <polygon class="cls-16" points="1920 970 1810 970 1810 1080 1810 1190 1920 1190 1965 1190 1942.5 1170 1920 1170 1897.5 1170 1875 1170 1852.5 1170 1830 1170 1830 1147.5 1830 1125 1830 1102.5 1830 1080 1830 1057.5 1830 1035 1830 1012.5 1830 990 1852.5 990 1875 990 1897.5 990 1920 990 1942.5 990 1965 990 1987.5 990 2010 990 2010 1012.5 2010 1035 2010 1057.5 2010 1080 2010 1102.5 2030 1125 2030 1125 2030 1125 2030 1080 2030 970 1920 970"/>
+    <rect class="cls-22" x="1952.65" y="1049.65" width="15" height="141" transform="translate(-217.95 1714.12) rotate(-45)"/>
+    <polyline class="cls-22" points="1830 970 1810 970 1810 990 1830 970"/>
+  </g>
+  <g id="Logo_Adornment">
+    <polygon class="cls-22" points="2030 1190 1965 1190 1965 1170 2010 1170 2010 1125 2030 1125 2030 1190"/>
+  </g>
+  <g id="Text">
+    <text class="cls-17" transform="translate(1810 1205.59)"><tspan x="0" y="0">QMatrix Industry</tspan></text>
+  </g>
+  <g id="Info">
+    <text class="cls-20" transform="translate(176.03 1945.18)"><tspan x="0" y="0">E</tspan><tspan class="cls-28" x="112.39" y="0">r</tspan><tspan class="cls-31" x="177.95" y="0">a</tspan><tspan class="cls-40" x="281.35" y="0">c</tspan><tspan x="374.63" y="0">autus</tspan></text>
+    <text class="cls-19" transform="translate(191.71 1981.83)"><tspan class="cls-26" x="0" y="0">F</tspan><tspan x="24.44" y="0">or n</tspan><tspan class="cls-21" x="107.8" y="0">e</tspan><tspan class="cls-36" x="131.45" y="0">w e</tspan><tspan class="cls-1" x="203.8" y="0">r</tspan><tspan x="220" y="0">a</tspan></text>
+    <path class="cls-10" d="M82.78,1868.07c-37.01,3.06-65.88,28.09-65.88,58.52,0,32.5,32.91,58.84,73.51,58.84s73.51-26.34,73.51-58.84c0-29.34-26.83-53.66-61.92-58.11"/>
+    <path class="cls-10" d="M76.93,1828.75c5.4,18.62,3.37,37.06-10.31,42.17-11.91,4.45-30.02-1.76-36.09-20.95-4.84-15.31,1.65-39.04,11.47-41.31,12.46-2.88,31.49,8.26,34.92,20.1Z"/>
+    <path class="cls-10" d="M107.29,1828.75c-5.39,18.86-4.23,37.39,10.31,42.17,12.08,3.97,30.02-1.76,36.09-20.95,4.84-15.31-1.65-39.04-11.47-41.31-12.46-2.88-31.54,8.25-34.92,20.1Z"/>
+    <polyline class="cls-10" points="83.95 1875.1 84.28 1857.15 91.68 1863.21 97.41 1852.31 103.21 1869.47"/>
+    <path class="cls-11" d="M131.4,1916.4h-16.37c-1.64,0-2.98,1.17-2.98,2.59v.74c0,1.43,1.34,2.59,2.98,2.59h16.37c1.64,0,2.98-1.17,2.98-2.59v-.74c0-1.43-1.34-2.59-2.98-2.59Z"/>
+    <path class="cls-8" d="M122.07,1945.83h0c-.56,0-5.94-2.85-5.94-3.41l-.13-25c0-.56.46-1.02,1.02-1.02h10.1c.56,0,1.02.46,1.02,1.02v25c0,.56-5.51,3.41-6.07,3.41Z"/>
+    <path class="cls-5" d="M116.04,1922.33h12.07c-.09-2.76-2.76-5-6.04-5s-5.94,2.24-6.04,5Z"/>
+    <path class="cls-9" d="M47.23,1917.32h16.37c1.64,0,2.98,1.08,2.98,2.39v.68c0,1.31-1.34,2.39-2.98,2.39h-16.37c-1.64,0-2.98-1.08-2.98-2.39v-.68c0-1.31,1.34-2.39,2.98-2.39Z"/>
+    <path class="cls-8" d="M56.56,1946.75h0c.56,0,6.07-1.63,6.07-2.19v-26.22c0-.56-.46-1.02-1.02-1.02h-10.1c-.56,0-1.02.46-1.02,1.02v26.22c0,.56,5.51,2.19,6.07,2.19Z"/>
+    <path class="cls-7" d="M62.59,1922.45h-12.07c.09-2.64,2.76-4.78,6.04-4.78,3.28,0,5.94,2.14,6.04,4.78Z"/>
+    <path class="cls-6" d="M89.43,1940.63c0,1.89-2.34,3.88-5.24,3.92-2.54.04-3.69-2.35-3.97-4.27"/>
+    <path class="cls-6" d="M90.08,1940.63c0,1.89,2.34,3.88,5.24,3.92,2.54.04,3.69-2.35,3.97-4.27"/>
+    <polyline class="cls-10" points="161.43 1911.36 172.45 1911.36 166.94 1925.41 176.03 1939.44 158.74 1948.31"/>
+    <polyline class="cls-10" points="19.33 1911.36 8.31 1911.36 13.82 1925.41 4.73 1939.44 22.02 1948.31"/>
+    <text class="cls-15" transform="translate(16.89 2033.46)"><tspan x="0" y="0">注意：这是卡特斯纪元内部资产，仅供开发评估，并非最终效果。</tspan></text>
+  </g>
+  <g id="Triangle">
+    <polygon class="cls-32" points="1920 0 1876.7 75 1963.3 75 1920 0"/>
+    <polygon class="cls-30" points="1920 2160 1963.3 2085 1876.7 2085 1920 2160"/>
+    <polygon class="cls-16" points="0 1080 75 1123.3 75 1036.7 0 1080"/>
+    <polygon class="cls-34" points="3840 1080 3765 1036.7 3765 1123.3 3840 1080"/>
+  </g>
+</svg>
